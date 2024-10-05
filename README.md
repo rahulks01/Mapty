@@ -12,3 +12,4 @@ A simple JavaScript project using OOP, Geolocation and External Libraries.
   git clone https://github.com/rahulks01/Mapty.git
   ```
 - Open the index.html file in your web browser.
+- Allow permissions for detecting location on your browser.
