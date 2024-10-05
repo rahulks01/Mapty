@@ -185,14 +185,14 @@ body {
   color: var(--color-light--2);
 }
 
-/* MAP */
+/* ----------------------MAP---------------------- */
 #map {
   flex: 1;
   height: 100%;
   background-color: var(--color-light--1);
 }
 
-/* Popup width for JS options */
+/* Popup width for Leaflet library (through JS) */
 .leaflet-popup .leaflet-popup-content-wrapper {
   background-color: var(--color-dark--1);
   color: var(--color-light--2);
